@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/googlefy/static/css/main.8068e813.css",
+    "main.js": "/googlefy/static/js/main.cc566d0c.js",
+    "static/media/logo.png": "/googlefy/static/media/logo.2630dd42a2eb2c16a9c5.png",
+    "static/media/microphone-icon.png": "/googlefy/static/media/microphone-icon.f5295a92258e91512388.png",
+    "static/media/logo-icon.png": "/googlefy/static/media/logo-icon.6f9d688e65908f8ac8e2.png",
+    "index.html": "/googlefy/index.html",
+    "main.8068e813.css.map": "/googlefy/static/css/main.8068e813.css.map",
+    "main.cc566d0c.js.map": "/googlefy/static/js/main.cc566d0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8068e813.css",
+    "static/js/main.cc566d0c.js"
+  ]
+}
