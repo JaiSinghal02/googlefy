@@ -1,0 +1,18 @@
+.button-div{
+    height: 40px;
+    box-sizing: border-box;
+    padding: 0 15px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-div:hover{
+    cursor: pointer;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}

@@ -1,0 +1,22 @@
+.languagebar-container{
+    width: 100%;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding-top: 10px;
+}
+.languagebar-div{
+    display: contents;
+    width: 600px;
+    font-size: small;
+}
+.languagebar-tag{
+    font-size: 14px;
+}
+.languagebar-language-links{
+    margin: 7px;
+    color: #1a0dab;
+}
+.languagebar-language-links:focus{
+    color: #1a0dab;
+}

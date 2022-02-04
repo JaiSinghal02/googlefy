@@ -1,0 +1,59 @@
+.header-container{
+    width: 100%;
+    min-height: 60px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.header-div{
+    width: 60%;
+    max-width: 300px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.header-links-div{
+    width: 40%;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-link{
+    font-size: 13px;
+    cursor: pointer;
+}
+.header-app-div{
+    width: 40px;
+    height: 100%;
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-app-div img{
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+
+.header-button-div{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signin-button-div{
+    width: 96px;
+    height: 36px;
+    border-radius: 4px;
+    background: #1a73e8;
+    border: 1px solid transparent;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

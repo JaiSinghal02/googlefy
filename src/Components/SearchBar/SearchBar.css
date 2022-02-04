@@ -1,0 +1,50 @@
+.searchbar-container{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.searchbar-div{
+    width: 550px;
+    height: 45px;
+    border-radius: 25px;
+    margin-top: 20px;
+    border: 1px solid #dfe1e5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.searchbar-searchicon-div{
+    width: 30px;
+    height: 100%;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbar-searchicon-div img{
+    width: 60%;
+    height: 35%;
+}
+.searchbar-input{
+    width: 85%;
+    height: 85%;
+    border-radius: 20px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+}
+.searchbar-microphoneicon-div{
+    width: 30px;
+    height: 100%;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbar-microphoneicon-div img{
+    width: 50%;
+    height: 40%;
+    cursor: pointer;
+}
